@@ -1,0 +1,37 @@
+_repo: Fra-Bartolommeo_7222
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scott, Leader
+    alias: Baxter, Lucy
+    birthdate: 1837
+    deathdate: 1902
+    gutenberg_agent_id: '2384'
+    url: http://www.gutenberg.org/2009/agents/2384
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Baxter
+  editors:
+  - agent_name: Shipp, Horace
+    birthdate: 1891
+    deathdate: 1961
+    gutenberg_agent_id: '4620'
+    url: http://www.gutenberg.org/2009/agents/4620
+  - agent_name: Kendrick, Flora
+    gutenberg_agent_id: '4621'
+    url: http://www.gutenberg.org/2009/agents/4621
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7222'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Sarto, Andrea del, 1486-1530'
+- !lcsh 'Bartolomeo, fra, 1472-1517'
+- !lcsh 'Albertinelli, Mariotto, 1474-1515'
+- GITenberg
+title: Fra Bartolommeo
+url: http://www.gutenberg.org/ebooks/7222
