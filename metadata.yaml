@@ -1,5 +1,8 @@
 _repo: Fra-Bartolommeo_7222
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Scott, Leader
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '4621'
     url: http://www.gutenberg.org/2009/agents/4621
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7222#Fra-Bartolommeo
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
